@@ -1,0 +1,3 @@
+repository "Project Emotion-aware/Project Emotion-aware@13469636197221@cloud"
+  path "/"
+    smartbranch "/main"
