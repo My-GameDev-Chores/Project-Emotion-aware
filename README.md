@@ -25,15 +25,15 @@
 * Behavior-based player state detection  
 * Companion AI using Finite State Machine (FSM)  
 * Dynamic guidance system  
-* Session-based response adjustment  
+* Session-based response system  
 
 ---
 
 ## 🚀 Features
 
 * Adaptive companion behavior  
-* Context-based interaction  
-* Progressive response system  
+* Context-based player interaction  
+* Progressive guidance system  
 
 ---
 
