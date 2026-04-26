@@ -7,9 +7,8 @@
 ## 🎥 Gameplay
 
 <p align="center">
-  <img src="./media/gameplay.gif" width="700"/>
+  <img src="media/gameplay.gif" width="700"/>
 </p>
-
 ---
 
 ## 📸 Preview
